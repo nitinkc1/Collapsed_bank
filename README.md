@@ -1,6 +1,4 @@
-Sure, here's a hypothetical "addme" section for a GitHub repository discussing the reasons behind the collapse of Credit Suisse (Note: As of my last update in September 2021, Credit Suisse had not collapsed. Please verify the current status before making any claims):
-
-## AddMe: Credit Suisse - Analyzing the Collapse of a Financial Giant
+## Readme: Credit Suisse - Analyzing the Collapse of a Financial Giant
 
 ### Introduction
 
