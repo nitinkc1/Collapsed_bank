@@ -48,5 +48,12 @@ The repository is organized to facilitate easy navigation and understanding of t
 
 - **Lessons Learned:** Summarize and articulate lessons learned from the collapse, providing actionable insights for the industry and regulatory bodies.
 
+## Insights
+
+![image](https://github.com/nitinkc1/credit_suisse_bank_collapsed_Analysis/blob/main/credit%20suisse%20bank%201.png)
+
+![image](https://github.com/nitinkc1/credit_suisse_bank_collapsed_Analysis/blob/main/credit%20suisse%20bank%202.png)
+
 This README serves as a guide to understanding the purpose, structure, and goals of the "Credit Suisse Collapse Analysis" project, providing a comprehensive resource for researchers, analysts, and anyone interested in the intricacies of financial collapses and risk management.
+
 
